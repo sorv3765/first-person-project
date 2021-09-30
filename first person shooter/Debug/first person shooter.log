@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  first person shooter.cpp
+d:\shaniel\first person shooter\first person shooter\first person shooter.cpp(157): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\shaniel\first person shooter\first person shooter\first person shooter.cpp(166): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  first person shooter.vcxproj -> D:\Shaniel\first person shooter\Debug\first person shooter.exe
